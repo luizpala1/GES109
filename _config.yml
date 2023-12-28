@@ -1,0 +1,8 @@
+
+title: Séries temporais
+description: Departamento de Estatística - UFLA.
+theme: jekyll-theme-architect
+gem "github-pages", group: :jekyll_plugins
+
+#Others
+markdown: kramdown
