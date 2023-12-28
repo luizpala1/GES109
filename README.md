@@ -9,15 +9,13 @@ GES109 - Organização e Apresentação de Dados
 * * *
 
 <p align="justify">
- Essa é uma página do Núcleo de Estudos em Séries Temporais que atua no Departamento de Estatística (DES) da Universidade Federal de Lavras (UFLA). No grupo são abordados temas como modelos de séries temporais, wavelets, modelos de regressão e aplicações. Aqui serão divulgados os seminários, artigos e eventos do grupo.
+Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES109) do bacharelado em Estatística da Universidade Federal de Lavras, [UFLA](https://ufla.br/), no *campus Lavras*. Além do bacharelado em estatística, você pode encontrar informações sobre o Departamento de Estatística ([DES](http://www.des.ufla.br/)) e sobre o Programa de Pós-Graduação em Estatística e Experimentação Agropecuária ([PPGEEA](https://prpg.ufla.br/alternativo/estatistica/)).
 </p> 
-
-- Visite o site do Departamento e da Universidade em: [DES](http://www.des.ufla.br/), [UFLA](https://ufla.br/).
 
 * * *
 
 
-### [Seminários](#)
+### [Sobre o conteúdo](#)
 
 Confira a data do próximo seminário:
 
@@ -25,7 +23,7 @@ Confira a data do próximo seminário:
 - Dia:
 - Sala: 
 
-### [Eventos](#)
+### [Eventos em 2024](#)
 
 
 - [III Meetup do R-Ladies Lavras](https://www.sympla.com.br/3-meetup-r-ladies-lavras__872664). 
