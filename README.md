@@ -17,11 +17,8 @@ Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES10
 
 ### [Sobre o conteúdo](#)
 
-Confira a data do próximo seminário:
+- A ementa da disciplina pode ser encontrada em: ([GES109]([https://prpg.ufla.br/alternativo/estatistica/](https://sig.ufla.br/modulos/publico/matrizes_curriculares/gerar_ementa_traducao.php?cod_disciplina=9338))), bem como toda a matriz curricular do bacharelado em Estatística. 
 
-- Título:
-- Dia:
-- Sala: 
 
 ### [Eventos em 2024](#)
 
