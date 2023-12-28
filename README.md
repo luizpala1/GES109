@@ -9,7 +9,7 @@ GES109 - Organização e Apresentação de Dados
 * * *
 
 <p align="justify">
-Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES109) do bacharelado em Estatística da Universidade Federal de Lavras, <a href="https://ufla.br/">(UFLA)</a>, no *campus Lavras*. Além do bacharelado em estatística, você pode encontrar informações sobre o Departamento de Estatística ([DES](http://www.des.ufla.br/)) e sobre o Programa de Pós-Graduação em Estatística e Experimentação Agropecuária ([PPGEEA](https://prpg.ufla.br/alternativo/estatistica/)).
+Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES109) do bacharelado em Estatística da Universidade Federal de Lavras, <a href="https://ufla.br/">(UFLA)</a>, no *campus Lavras*. Além do bacharelado em estatística, você pode encontrar informações sobre o Departamento de Estatística (<a href="http://www.des.ufla.br/">(DES)</a>) e sobre o Programa de Pós-Graduação em Estatística e Experimentação Agropecuária (<a href="[http://www.des.ufla.br/](https://prpg.ufla.br/alternativo/estatistica/)">(PPGEEA)</a>).
 </p> 
 
 
