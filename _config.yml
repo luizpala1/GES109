@@ -5,7 +5,7 @@ theme: jekyll-theme-architect
 gem "github-pages", group: :jekyll_plugins
 
 styles:
-  - "/assets/css/custom.css"
+  - "/assets/custom.css"
 
 #Others
 markdown: kramdown
