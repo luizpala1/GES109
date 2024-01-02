@@ -41,8 +41,8 @@ A ementa da disciplina pode ser encontrada em: <a href="https://sig.ufla.br/modu
 <body>
 <a href="http://lattes.cnpq.br/3989787989553183" target="_blank">
 <img class="oval" src="https://raw.githubusercontent.com/luizpala1/GES109/main/_layouts/figuras/izabela.jpg" alt="" width="100" height="90">
-  <br> <!-- Adiciona uma quebra de linha para separar a imagem do texto -->
-      Texto para a imagem 1
+  <br> <!--  -->
+   Izabela Regina Cardoso de Oliveira
 </a>
 <a href="http://lattes.cnpq.br/5770791208849986" target="_blank">
 <img class="oval" src="https://raw.githubusercontent.com/luizpala1/GES109/main/_layouts/figuras/luizOtavio.jpg" alt="" width="100" height="90">
