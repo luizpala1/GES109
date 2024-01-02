@@ -23,7 +23,7 @@ Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES10
 ### [Docentes](#)
  <img class="oval" src="https://github.com/luizpala1/GES109/blob/main/_layouts/figuras/izabela.jpg" alt="" width="100"
          height="90" align="center" hspace="5">
- <img class="oval" src="https://github.com/luizpala1/GES109/blob/main/_layouts/figuras/luizOtavio.jpg" alt="" width="100"
+ <img class="oval" src="https://github.com/luizpala1/GES109/blob/main/_layouts/figuras/izabela.jpg" alt="" width="100"
          height="90" align="center" hspace="5">
  
 
