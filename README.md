@@ -56,7 +56,7 @@ A ementa da disciplina pode ser encontrada em: <a href="https://sig.ufla.br/modu
     <img class="oval" src="https://raw.githubusercontent.com/luizpala1/GES109/main/_layouts/figuras/izabela.jpg" alt="" width="105" height="105">
     </a>
     <p>
-    <b> Izabela Oliveira</b>: É doutora em Estatística e Experimentação Agronômica pela Escola Superior de Agricultura "Luiz de Queiroz", ESALQ/USP, em dupla titulação com a Universiteit Hasselt, Bélgica. É mestre em Estatística e Experimentação Agropecuária (2010) e Bacharel em Administração (2008) pela Universidade Federal de Lavras (UFLA). Tem experiência na área de estatística aplicada.
+    <b> Izabela Oliveira</b>: É doutora em Estatística e Experimentação Agronômica pela Escola Superior de Agricultura "Luiz de Queiroz", em dupla titulação com a Universiteit Hasselt, Bélgica. É mestre em Estatística e Experimentação Agropecuária (2010) e Bacharel em Administração (2008) pela Universidade Federal de Lavras (UFLA). Tem experiência na área de estatística aplicada.
     </p>
   </div>
 
