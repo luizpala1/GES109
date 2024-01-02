@@ -33,8 +33,8 @@ Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES10
       border: 2px solid #ccc; 
     }
 
-     .image-container img {
-      margin: 0 10px; /* Adiciona espaço entre a imagem e o texto */
+    .image-container img{
+      margin: 0 10px; 
     }
     
   </style>
