@@ -37,8 +37,6 @@ Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES10
 <body>
   <a href="http://lattes.cnpq.br/3989787989553183" target="_blank">
   <img class="oval" src="https://raw.githubusercontent.com/luizpala1/GES109/main/_layouts/figuras/izabela.jpg" alt="" width="100" height="90">
-</body>
-<body>
   <a href="http://lattes.cnpq.br/5770791208849986" target="_blank">
   <img class="oval" src="https://raw.githubusercontent.com/luizpala1/GES109/main/_layouts/figuras/luizOtavio.jpg" alt="" width="100" height="90">
 </body>
