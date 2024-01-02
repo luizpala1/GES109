@@ -29,7 +29,7 @@ Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES10
     .oval {
       border-radius: 50%;
       display: inline-block;
-      margin: 0 auto;
+      margin: 0 10px 10px 0;
       border: 2px solid #ccc; 
     }
   </style>
