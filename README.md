@@ -51,6 +51,11 @@ Izabela Regina Cardoso de Oliveira: É doutora em Estatística e Experimentaçã
 <a href="http://lattes.cnpq.br/5770791208849986" target="_blank">
 <img class="oval" src="https://raw.githubusercontent.com/luizpala1/GES109/main/_layouts/figuras/luizOtavio.jpg" alt="" width="100" height="90">
  </a>
+
+<p align="justify">
+Luiz Otávio de Oliveira Pala. Possui graduação em Ciências Atuariais, mestrado em Estatística Aplicada e Biometria pela Universidade Federal de Alfenas (UNIFAL/MG) e doutorado em Estatística e Experimentação Agropecuária pela Universidade Federal de Lavras (UFLA/MG). Tem interesse na modelagem de seguros e risco, análise de séries temporais e inferência Bayesiana. 
+</p>
+
 </body>
 </html>
 
