@@ -205,7 +205,7 @@ form {
   padding-right: 0.3em;
   margin-left: -0.9em;
   color: #9ddcff;
-  content: "\25A0";
+  content: "/";
 }
 
 #main-content h2 {
@@ -219,8 +219,7 @@ form {
 #main-content h2:before {
   padding-right: 0.3em;
   margin-left: -1.5em;
-  /* content: "//"; */
-  content: "\25A0";
+  content: "//";
   color: #9ddcff;
 }
 
@@ -231,15 +230,14 @@ form {
   font-size: 18px;
   font-weight: bold;
   color: #474747;
-  content: "\25A0";
+  content: "///";
   text-indent: 3px;
 }
 
 #main-content h3:before {
   padding-right: 0.3em;
   margin-left: -2em;
-  /* content: "///";*/
-  content: "\25A0";
+  content: "///";
   color: #9ddcff;
 }
 
@@ -249,7 +247,7 @@ form {
   font-size: 15px;
   font-weight: bold;
   color: #474747;
-  content: "\25A0";
+  content: "////";
   text-indent: 3px;
 }
 
