@@ -1,7 +1,7 @@
 
 <center> 
 <big> <big><B><font color="#2879d0">
-GES109 - Organização e Apresentação de Dados 1
+GES109 - Organização e Apresentação de Dados
  </font></B></big></big>
 </center>
 
