@@ -20,8 +20,10 @@ Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES10
 - A ementa da disciplina pode ser encontrada em: [GES109](https://sig.ufla.br/modulos/publico/matrizes_curriculares/index.php), bem como toda a matriz curricular do bacharelado em Estatística.
 
 ### [Docentes](#)
- <img class="oval" src="https://user-images.githubusercontent.com/55280548/75837045-7a876480-5da2-11ea-9730-08a0eec38ebf.png" alt="" width="100"
+ <img class="oval" src="https://github.com/luizpala1/GES109/blob/main/_layouts/figuras/izabela.jpg" alt="" width="100"
          height="90" align="right" hspace="5">
+
+ 
 
 
 ### [Eventos em 2024](#)
