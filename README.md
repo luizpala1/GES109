@@ -25,6 +25,8 @@ Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES10
          height="90" align="center" hspace="5">
  <img class="oval" src="https://raw.githubusercontent.com/luizpala1/GES109/main/_layouts/figuras/luizOtavio.jpg" alt="" width="100"
          height="90" align="center" hspace="5">
+
+         
  <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -39,10 +41,6 @@ Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES10
   </style>
   <title>Minha Página GitHub</title>
 </head>
-<body>
-  <h1>Minha Página GitHub</h1>
-  <img class="oval" src="https://raw.githubusercontent.com/luizpala1/GES109/main/_layouts/figuras/izabela.jpg" alt="" width="100" height="90">
-</body>
 </html>
 
 ### [Eventos em 2024](#)
