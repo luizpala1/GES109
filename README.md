@@ -1,6 +1,6 @@
 
 <center> 
-<big> <big><B><font color="#4d79ff">
+<big> <big><B><font color="#2879d0">
 GES109 - Organização e Apresentação de Dados
  </font></B></big></big>
 </center>
