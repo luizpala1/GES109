@@ -53,7 +53,7 @@ A ementa da disciplina pode ser encontrada em: <a href="https://sig.ufla.br/modu
 <body>
   <div class="text-container">
     <a href="http://lattes.cnpq.br/3989787989553183" target="_blank">
-    <img class="oval" src="https://raw.githubusercontent.com/luizpala1/GES109/main/_layouts/figuras/izabela.jpg" alt="" width="100" height="100">
+    <img class="oval" src="https://raw.githubusercontent.com/luizpala1/GES109/main/_layouts/figuras/izabela.jpg" alt="" width="105" height="105">
     </a>
     <p>
     <b> Izabela Oliveira</b>: É doutora em Estatística e Experimentação Agronômica pela Escola Superior de Agricultura "Luiz de Queiroz", ESALQ/USP, em dupla titulação com a Universiteit Hasselt, Bélgica. É mestre em Estatística e Experimentação Agropecuária (2010) e Bacharel em Administração (2008) pela Universidade Federal de Lavras (UFLA). Tem experiência na área de estatística aplicada.
@@ -62,7 +62,7 @@ A ementa da disciplina pode ser encontrada em: <a href="https://sig.ufla.br/modu
 
   <div class="text-container">
     <a href="http://lattes.cnpq.br/5770791208849986" target="_blank">
-    <img class="oval" src="https://raw.githubusercontent.com/luizpala1/GES109/main/_layouts/figuras/luizOtavio.jpg" alt="" width="100" height="100">
+    <img class="oval" src="https://raw.githubusercontent.com/luizpala1/GES109/main/_layouts/figuras/luizOtavio.jpg" alt="" width="105" height="105">
     </a>
     <p>
     <b> Luiz Otávio Pala</b>: Possui graduação em Ciências Atuariais, mestrado em Estatística Aplicada e Biometria pela Universidade Federal de Alfenas e doutorado em Estatística e Experimentação Agropecuária pela Universidade Federal de Lavras. Tem interesse na modelagem de seguros e risco, análise de séries temporais e inferência Bayesiana. 
