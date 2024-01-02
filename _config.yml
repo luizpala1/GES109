@@ -1,7 +1,7 @@
 
 title: Organização e Apresentação de Dados
 description: Departamento de Estatística - UFLA.
-theme: jekyll-theme-architect
+theme: jekyll-theme-architect1
 gem "github-pages", group: :jekyll_plugins
 
 
