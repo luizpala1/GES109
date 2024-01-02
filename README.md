@@ -32,10 +32,6 @@ Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES10
       margin: 0 auto;
       border: 2px solid #ccc; 
     }
-
-    .image-container img{
-      margin: 0 10px; 
-    }
     
   </style>
 </head>
