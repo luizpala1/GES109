@@ -26,22 +26,7 @@ Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES10
  <img class="oval" src="https://raw.githubusercontent.com/luizpala1/GES109/main/_layouts/figuras/luizOtavio.jpg" alt="" width="100"
          height="90" align="center" hspace="5">
 
-         
- <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .oval {
-      border-radius: 50%;
-      display: block;
-      margin: 0 auto;
-      border: 2px solid #ccc; /* Adiciona uma borda cinza para destacar a forma oval */
-    }
-  </style>
-  <title>Minha Página GitHub</title>
-</head>
-</html>
+        
 
 ### [Eventos em 2024](#)
 
