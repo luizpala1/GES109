@@ -4,6 +4,8 @@ description: Departamento de Estatística - UFLA.
 theme: jekyll-theme-architect
 gem "github-pages", group: :jekyll_plugins
 
-
-#Others
-markdown: kramdown
+# Adicione a linha abaixo para incluir o seu arquivo de estilo personalizado
+sass:
+  sass_dir: _sass
+  style: compressed
+  custom_style: assets/css/custom
