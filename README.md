@@ -29,8 +29,8 @@ Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES10
   <style>
     .oval {
       border-radius: 50%;
-      display: inline-block;
-      margin: 0 10px 10px 0;
+      display: block;
+      margin: 0 auto;
       border: 2px solid #ccc; 
     }
   </style>
