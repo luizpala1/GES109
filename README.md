@@ -21,6 +21,7 @@ Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES10
 
 
 ### [Docentes](#)
+<center> 
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -43,7 +44,7 @@ Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES10
  </a>
 </body>
 </html>
-        
+</center>  
 
 ### [Eventos em 2024](#)
 
