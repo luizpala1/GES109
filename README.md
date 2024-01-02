@@ -32,11 +32,18 @@ Esta é a página da disciplina 'Organização e Apresentação de Dados' (GES10
       margin: 0 auto;
       border: 2px solid #ccc; 
     }
+
+     .image-container img {
+      margin: 0 10px; /* Adiciona espaço entre a imagem e o texto */
+    }
+    
   </style>
 </head>
 <body>
 <a href="http://lattes.cnpq.br/3989787989553183" target="_blank">
 <img class="oval" src="https://raw.githubusercontent.com/luizpala1/GES109/main/_layouts/figuras/izabela.jpg" alt="" width="100" height="90">
+  <br> <!-- Adiciona uma quebra de linha para separar a imagem do texto -->
+      Texto para a imagem 1
 </a>
 <a href="http://lattes.cnpq.br/5770791208849986" target="_blank">
 <img class="oval" src="https://raw.githubusercontent.com/luizpala1/GES109/main/_layouts/figuras/luizOtavio.jpg" alt="" width="100" height="90">
