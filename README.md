@@ -35,12 +35,12 @@ A ementa da disciplina pode ser encontrada em: <a href="https://sig.ufla.br/modu
       display: block;
       margin: 0;
       border: 2px solid #ccc;
-      float: left; /* Adicionado float para alinhar à esquerda */
-      margin-right: 10px; /* Adicionado espaço entre a imagem e o texto */
+      float: left; 
+      margin-right: 10px; 
     }
 
     .text-container {
-      overflow: hidden; /* Limpa o float e evita problemas de layout */
+      overflow: hidden; 
     }
 
     .text-container p {
