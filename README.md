@@ -24,7 +24,6 @@ A ementa da disciplina pode ser encontrada em: <a href="https://sig.ufla.br/modu
 
 
 ### [Docentes](#)
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
