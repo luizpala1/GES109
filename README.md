@@ -42,6 +42,7 @@ A ementa da disciplina pode ser encontrada em: <a href="https://sig.ufla.br/modu
 
     .text-container {
       overflow: hidden; 
+      margin-bottom: 20px;
     }
 
     .text-container p {
