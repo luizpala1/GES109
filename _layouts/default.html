@@ -24,7 +24,9 @@
     </div>
 
     {% if site.github.is_project_page %}
-    <a href="{{ site.github.repository_url }}" class="button" style="margin-left: auto;"><small>View project on</small> GitHub</a>
+      <div style="margin-left: auto;">
+        <a href="{{ site.github.repository_url }}" class="button"><small>View project on</small> GitHub</a>
+      </div>
     {% endif %}
   </div>
 </header>
