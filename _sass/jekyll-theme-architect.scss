@@ -58,19 +58,7 @@ header h2 {
   letter-spacing: 0;
 }
 
-/* --------------------------------------*/
-/* pontuacoes de lista*/
-li {
-  list-style-type: none; 
-  margin-bottom: 10px;
-}
 
-li::before {
-  content: "\25A0"; /* Adiciona o quadrado preto antes de cada item de lista */
-  display: inline-block;
-  margin-right: 5px; 
-}
-/* --------------------------------------*
 .inner {
   position: relative;
   width: 1000px;
