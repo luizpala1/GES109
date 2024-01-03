@@ -6,3 +6,6 @@ Para começarmos a trabalhar com o <img src='https://www.r-project.org/Rlogo.png
 </p>
 
 ### [Instalar o RStudio](#)
+<p align="justify">
+Após a instalação do R, vamos instalar o RStudio (que é uma interface de desenvolvimento integrada - IDE) do R, que nos fornece um ambiente interativo para programação. O RStudio pode ser obtido <a href="https://posit.co/download/rstudio-desktop/" target="_blank">nesse</a> link.
+</p>
