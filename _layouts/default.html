@@ -14,13 +14,13 @@
  
 
  <body>
- <header>
+<header style="padding-top: 30px; padding-bottom: 30px; padding-right: -50px; padding-left: -50px; font-family: 'Suez One', sans-serif; background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x; border-bottom: solid 10px #275da1;">
   <div class="inner" style="width: 1100px; overflow-wrap: break-word; display: flex; justify-content: space-between; align-items: center;">
-    <div>
+    <div style="width: 80%;">
       <a href="{{ '/' | absolute_url }}">
         <h1 style="white-space: nowrap;">Organização e Apresentação<br>de Dados</h1>
       </a>
-      <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+      <h2 style="margin-right: 20px;">{{ site.description | default: site.github.project_tagline }}</h2> <!-- Adicionei uma margem à direita -->
     </div>
 
     {% if site.github.is_project_page %}
@@ -28,6 +28,7 @@
     {% endif %}
   </div>
 </header>
+
 
    
 
