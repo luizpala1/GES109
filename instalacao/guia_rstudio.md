@@ -7,13 +7,9 @@ Para começarmos a trabalhar com o <img src='https://www.r-project.org/Rlogo.png
 
 ### [Instalar o RStudio](#)
 <p align="justify">
-Após a instalação do R, vamos instalar o RStudio (que é uma interface de desenvolvimento integrada - IDE) do R, que nos fornece um ambiente interativo para programação. O RStudio pode ser obtido <a href="https://posit.co/download/rstudio-desktop/" target="_blank">nesse</a> link. Fiquem atentos a especificação do sistema operacional (OS) do seu computador. 
+Após a instalação do R, vamos instalar o RStudio (que é uma interface de desenvolvimento integrada - IDE) do R, que nos fornece um ambiente interativo para programação. O RStudio pode ser obtido <a href="https://posit.co/download/rstudio-desktop/" target="_blank">nesse</a> link. Fiquem atentos a especificação do sistema operacional (OS) do seu computador. Feito isso, a interface RStudio <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUvPeWREXPn6V7mOb1Bj17fgL1QTlFK7zH0DpZ8OG3ih9lCMkBXXdDSO-ky4cmXOkNXgI&usqp=CAU' height='20' width='20'> estará disponível para uso. Na Figura (1), tem-se a interface do RStudio (versão 4.3.1). 
 </p>
 
-<p align="justify">
-Feito isso, a interface RStudio <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUvPeWREXPn6V7mOb1Bj17fgL1QTlFK7zH0DpZ8OG3ih9lCMkBXXdDSO-ky4cmXOkNXgI&usqp=CAU' height='20' width='20'> estará disponível para uso. Na Figura (1), tem-se a interface do RStudio (versão 4.3.1). 
-</p>
-
-<img src="https://luizpala1.github.io/GES109/instalacao/rstudio_1.PNG" width="300" height="200">
-<p>Nome da Figura</p>
+<img src="https://luizpala1.github.io/GES109/instalacao/rstudio_1.PNG" width="500" height="300">
+<p><b>Figura 1.</b>Interface do RStudio versão 4.3.1</p>
 
