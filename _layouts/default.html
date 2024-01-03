@@ -20,7 +20,7 @@
       <a href="{{ '/' | absolute_url }}">
         <h1 style="white-space: nowrap;">Organização e Apresentação<br>de Dados</h1>
       </a>
-      <h2 style="margin-right: 20px;">{{ site.description | default: site.github.project_tagline }}</h2> <!-- Adicionei uma margem à direita -->
+      <h2 class="description">{{ site.description | default: site.github.project_tagline }}</h2> <!-- Adicionei uma classe à tag h2 -->
     </div>
 
     {% if site.github.is_project_page %}
@@ -28,6 +28,7 @@
     {% endif %}
   </div>
 </header>
+
 
 
    
