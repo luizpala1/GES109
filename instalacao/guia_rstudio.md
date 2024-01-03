@@ -11,6 +11,6 @@ Após a instalação do R, vamos instalar o RStudio (que é uma interface de des
 </p>
 
 <center> 
-<img src="https://luizpala1.github.io/GES109/instalacao/rstudio_1.PNG" width="600" height="480">
+<img src="https://luizpala1.github.io/GES109/instalacao/rstudio_1.PNG" width="630" height="400">
 <p><b>Figura 1.</b>Interface do RStudio versão 4.3.1</p>
 </center> 
