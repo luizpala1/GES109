@@ -7,7 +7,7 @@ Esse conjunto de dados corresponde à informações dos nascimentos ocorridos na
 ### [Descrição das variáveis](#)
 A base de dados contém informações sobre os 2056 nascimentos ocorridos no ano de 2021, incluindo 11 variáveis relacionadas às características da mãe e do bebê. Sendo:
 
-- *idade_da_mae*: Idade da mãe, em anos completos;
+- *idade_da_mae*: Idade da mãe, em anos completos.
 <br>
 
 - *estado_civil_mae*: Estado civil da mãe, contendo seis níveis (<b>1:</b> solteira; <b>2:</b> casada; <b>3:</b> viúva; <b>4:</b> separado judicialmente/divorciado; <b>5:</b> união consensual; <b>9:</b> ignorado).
@@ -21,6 +21,11 @@ A base de dados contém informações sobre os 2056 nascimentos ocorridos no ano
 
 - *parto*: Tipo de parto, conforme os níveis: <b>1:</b> vaginal; <b>2:</b> cesáreo; <b>9:</b> ignorado.
 
+- *consultas*: número de consultas de pré-natal: <b>1:</b> nenhuma; <b>2:</b> de 1 a 3; <b>3:</b> de 4 a 6; <b>4:</b> 7 e mais; <b>9:</b> ignorado.
+
+- *data_nascimento*: data do nascimento, no formato aaaa-mm-dd.
+
+- 
 
 
 
