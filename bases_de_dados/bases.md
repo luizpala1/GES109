@@ -9,7 +9,7 @@ Esse conjunto de dados corresponde à informações dos nascimentos ocorridos na
 </p> 
 * * *
 
-<p><big><a href="https://luizpala1.github.io/GES109/bases_de_dados/sus_nascimentos/descricao"> &#x25A0; Cotações MGLU3.sa (Magazine Luiza) </a></big></p> 
+<p><big><a href="https://luizpala1.github.io/GES109/bases_de_dados/cotacoes/descricao"> &#x25A0; Cotações MGLU3.sa (Magazine Luiza) </a></big></p> 
 <p align="justify">
 
 </p> 
