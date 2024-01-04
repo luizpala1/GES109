@@ -16,3 +16,7 @@ Nessa seção estão disponíveis alguns códigos que iremos trabalhar durante a
     <script src="seu_script.js"></script>
 </body>
 </html>
+
+document.addEventListener('DOMContentLoaded', function() {
+    // ... (código JavaScript)
+});
