@@ -31,6 +31,6 @@ Em caso de dúvidas, veja a <a href="https://luizpala1.github.io/GES109/bases_de
  da base de dados disponibilizada pelo Sistema Único de Saúde. 
 
 #### [Download da base](#)
-
+A base está dispoível para download <a href="https://luizpala1.github.io/GES109/bases_de_dados/sus_nascimentos/base.csv" target="_blank">neste link</a> no formato CSV (Comma-Separated Values).
 
 
