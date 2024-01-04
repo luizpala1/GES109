@@ -11,6 +11,6 @@ Esse conjunto de dados corresponde à informações dos nascimentos ocorridos na
 
 <p><big><a href="https://luizpala1.github.io/GES109/bases_de_dados/cotacoes/descricao"> &#x25A0; Cotações MGLU3.sa (Magazine Luiza) </a></big></p> 
 <p align="justify">
-
+Esse conjunto de dados corresponde às ações da Magazine Luiza na B3, que é a bolsa de valores brasileira. Os dados brutos foram extraídos em 04 de janeiro de 2024 e já passaram por um processo de estruturação e limpeza. 
 </p> 
 * * *
