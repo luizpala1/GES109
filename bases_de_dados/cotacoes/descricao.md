@@ -20,7 +20,7 @@ A base de dados contém 500 linhas e seis variáveis, que estão descritas abaix
 - *volume*: Volume de ações negociadas na correspondente data.
 
 #### [Download da base](#)
-A base está dispoível para download <a href="https://luizpala1.github.io/GES109/bases_de_dados/cotacoes/mglu" target="_blank">neste link</a> no formato texto.
+A base está dispoível para download <a href="https://luizpala1.github.io/GES109/bases_de_dados/cotacoes/mglu" target="_blank">neste link</a>, no formato texto.
 
 #### [Leitura da base no RStudio](#)
 Para carregar a base de dados em seu RStudio, iremos utilizar a seguinte linha de código:
