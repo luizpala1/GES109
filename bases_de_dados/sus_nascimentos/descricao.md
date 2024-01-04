@@ -33,4 +33,22 @@ Em caso de dúvidas, veja a <a href="https://luizpala1.github.io/GES109/bases_de
 #### [Download da base](#)
 A base está dispoível para download <a href="https://luizpala1.github.io/GES109/bases_de_dados/sus_nascimentos/base.csv" target="_blank">neste link</a> no formato CSV (Comma-Separated Values).
 
+#### [Leitura da base no RStudio](#)
+Para carregar essa base de dados em seu RStudio, iremos utilizar a seguinte linha de código:
+
+```{r}
+df <- read.csv("C:/Users/DESICET/Desktop/base.csv")
+```
+
+Observe que o caminho *C:/Users/DESICET/Desktop/* \texttt{aaa} 
+
+
+
+
+
+
+
+
+
+
 
