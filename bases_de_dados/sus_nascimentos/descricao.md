@@ -37,14 +37,15 @@ A base está dispoível para download <a href="https://luizpala1.github.io/GES10
 Para carregar essa base de dados em seu RStudio, iremos utilizar a seguinte linha de código:
 
 ```{r}
+# leitura da base no RStudio
 df <- read.csv("C:/Users/DESICET/Desktop/base.csv")
 ```
+Observe que o path *C:/Users/DESICET/Desktop/* requer modificação para o diretório onde o conjunto de dados foi armazenado em seu computador. Lembre também que é necessário substitutir *\* por */*.
 
-Observe que o caminho *C:/Users/DESICET/Desktop/* \texttt{aaa} 
-
-
-
-
+```{r}
+# visualizar a base de dados
+View(df)
+```
 
 
 
