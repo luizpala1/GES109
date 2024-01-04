@@ -40,7 +40,10 @@ Para carregar essa base de dados em seu RStudio, iremos utilizar a seguinte linh
 # leitura da base no RStudio
 df <- read.csv("C:/Users/DESICET/Desktop/base.csv", sep = ";")
 ```
+
+<p align="justify">
 Observe que o path *C:/Users/DESICET/Desktop/* requer modificação para o diretório onde o conjunto de dados foi armazenado em seu computador. Lembrem-se que para alguns sistemas é necessário substituir as barras invertidas (\) por barras inclinadas (/) como separadores de diretório.
+</p> 
 
 ```{r}
 # visualizar a base de dados
