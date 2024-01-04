@@ -4,7 +4,7 @@
 Esse conjunto de dados corresponde à informações dos nascimentos ocorridos na cidade de Lavras (cod: 313820), Minas Gerais, no ano de 2021. Os dados brutos estão disponíveis <a href="https://datasus.saude.gov.br/transferencia-de-arquivos" target="_blank">neste link</a>, foram extraídos em 03 de janeiro de 2024 e já passaram por um processo de estruturação e limpeza. 
 </p> 
 
-### [Descrição das variáveis](#)
+#### [Descrição das variáveis](#)
 A base de dados contém informações sobre os 2056 nascimentos ocorridos no ano de 2021, incluindo 10 variáveis relacionadas às características da mãe e do bebê. Sendo:
 
 - *idade_da_mae*: Idade da mãe, em anos completos.
@@ -30,6 +30,7 @@ A base de dados contém informações sobre os 2056 nascimentos ocorridos no ano
 Em caso de dúvidas, veja a <a href="https://luizpala1.github.io/GES109/bases_de_dados/sus_nascimentos/Estrutura_SINASC_para_CD.pdf" target="_blank">descrição completa</a>
  da base de dados disponibilizada pelo Sistema Único de Saúde. 
 
+#### [Download da base](#)
 
 
 
