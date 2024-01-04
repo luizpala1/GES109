@@ -28,7 +28,7 @@ A base de dados contém informações sobre os 2056 nascimentos ocorridos no ano
 - *peso*: Peso ao nascer, em gramas.
 
 Em caso de dúvidas, veja a <a href="https://luizpala1.github.io/GES109/bases_de_dados/sus_nascimentos/Estrutura_SINASC_para_CD.pdf" target="_blank">descrição completa</a>
- da base de dados disponibilizada pelo Sistema Único de Saúde. 
+ da base de dados, conforme o Sistema Único de Saúde. 
 
 #### [Download da base](#)
 A base está dispoível para download <a href="https://luizpala1.github.io/GES109/bases_de_dados/sus_nascimentos/base.csv" target="_blank">neste link</a> no formato CSV (Comma-Separated Values).
