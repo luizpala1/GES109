@@ -31,7 +31,7 @@ Em caso de dúvidas, veja a <a href="https://luizpala1.github.io/GES109/bases_de
  da base de dados, conforme o Sistema Único de Saúde. 
 
 #### [Download da base](#)
-A base está dispoível para download <a href="https://luizpala1.github.io/GES109/bases_de_dados/sus_nascimentos/base.csv" target="_blank">neste link</a> no formato CSV (Comma-Separated Values).
+A base está dispoível para download <a href="https://luizpala1.github.io/GES109/bases_de_dados/sus_nascimentos/base.csv" target="_blank">neste link</a> no formato CSV (comma-separated values).
 
 #### [Leitura da base no RStudio](#)
 Para carregar essa base de dados em seu RStudio, iremos utilizar a seguinte linha de código:
