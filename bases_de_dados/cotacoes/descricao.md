@@ -13,7 +13,7 @@ A base de dados contém 500 linhas e seis variáveis, que estão descritas abaix
 
 - *maxima*: Valor máximo da cotação na correspondente data, em reais.
 
-  *minima*: Valor mínimo da cotação na correspondente data, em reais.
+- *minima*: Valor mínimo da cotação na correspondente data, em reais.
 
 - *fechamento*: Valor de fechamento da ação na correspondente data, em reais.
 
